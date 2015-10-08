@@ -15,7 +15,8 @@
         "symfony/monolog-bundle": "2.3.*",
         "spoon/library": "~2.0.0",
         "behat/transliterator": "~1.0",
-        "google/apiclient": "~1.1.2"
+        "google/apiclient": "~1.1.2",
+        "ramsey/uuid": "^3.0"
     },
     "require-dev": {
         "jdorn/sql-formatter": "1.2.17",
@@ -27,10 +28,6 @@
     "support": {
         "irc": "irc://irc.freenode.org/forkcms",
         "issues": "https://github.com/forkcms/forkcms/issues"
-    },
-    "scripts": {
-        "post-install-cmd": "php app/console assetic:dump . && cd tools && bash ./remove_cache",
-        "post-update-cmd": "php app/console assetic:dump . && cd tools && bash ./remove_cache"
     },
     "autoload": {
         "psr-0": {

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<Werkwijze>
+			<item type="label" name="AddWerkwijze">
+				<translation language="nl"><![CDATA[Werkwijze toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Werkwijze]]></translation>
+			</item>
+		</Werkwijze>
+		<Core>
+			<item type="label" name="Werkwijze">
+				<translation language="nl"><![CDATA[Werkwijze]]></translation>
+				<translation language="en"><![CDATA[Werkwijze]]></translation>
+			</item>
+			<item type="label" name="WerkwijzeDetail">
+				<translation language="nl"><![CDATA[Werkwijze detail]]></translation>
+				<translation language="en"><![CDATA[Werkwijze detail]]></translation>
+			</item>
+			<item type="label" name="WerkwijzeCategory">
+				<translation language="nl"><![CDATA[Werkwijze categorie]]></translation>
+				<translation language="en"><![CDATA[Werkwijze category]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>

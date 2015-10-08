@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<OnsTeam>
+			<item type="label" name="AddOnsTeam">
+				<translation language="nl"><![CDATA[Ons team toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Ons team]]></translation>
+			</item>
+		</OnsTeam>
+		<Core>
+			<item type="label" name="OnsTeam">
+				<translation language="nl"><![CDATA[Ons team]]></translation>
+				<translation language="en"><![CDATA[Ons team]]></translation>
+			</item>
+			<item type="label" name="OnsTeamDetail">
+				<translation language="nl"><![CDATA[Ons team detail]]></translation>
+				<translation language="en"><![CDATA[Ons team detail]]></translation>
+			</item>
+			<item type="label" name="OnsTeamCategory">
+				<translation language="nl"><![CDATA[Ons team categorie]]></translation>
+				<translation language="en"><![CDATA[Ons team category]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<Kwaliteitslabels>
+			<item type="label" name="AddKwaliteitslabels">
+				<translation language="nl"><![CDATA[Kwaliteitslabels toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Kwaliteitslabels]]></translation>
+			</item>
+		</Kwaliteitslabels>
+		<Core>
+			<item type="label" name="Kwaliteitslabels">
+				<translation language="nl"><![CDATA[Kwaliteitslabels]]></translation>
+				<translation language="en"><![CDATA[Kwaliteitslabels]]></translation>
+			</item>
+			<item type="label" name="KwaliteitslabelsDetail">
+				<translation language="nl"><![CDATA[Kwaliteitslabels detail]]></translation>
+				<translation language="en"><![CDATA[Kwaliteitslabels detail]]></translation>
+			</item>
+			<item type="label" name="KwaliteitslabelsCategory">
+				<translation language="nl"><![CDATA[Kwaliteitslabels categorie]]></translation>
+				<translation language="en"><![CDATA[Kwaliteitslabels category]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="nl"><![CDATA[geen categorieën]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<Core>
+		</Core>
+	</Frontend>
+</locale>
