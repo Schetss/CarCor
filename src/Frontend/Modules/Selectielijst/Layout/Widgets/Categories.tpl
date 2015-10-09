@@ -13,9 +13,11 @@
                 <ul>
                     {iteration:widgetSelectielijstCategories}
                         <li>
-                            <a href="{$widgetSelectielijstCategories.url}">
+                            {$widgetSelectielijstCategories.title}
+                            {$widgetSelectielijstCategories.description}
+                            <!-- <a href="{$widgetSelectielijstCategories.url}">
                                 {$widgetSelectielijstCategories.label}&nbsp;({$widgetSelectielijstCategories.total})
-                            </a>
+                            </a> -->
                         </li>
                     {/iteration:widgetSelectielijstCategories}
                 </ul>

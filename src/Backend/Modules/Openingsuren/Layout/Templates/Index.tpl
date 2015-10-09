@@ -3,11 +3,11 @@
 
 <div class="pageTitle">
     <h2>
-        {$lblSelectielijst|ucfirst}
+        {$lblOpeningsuren|ucfirst}
     </h2>
     <div class="buttonHolderRight">
-        <a href="{$var|geturl:'add'}" class="button icon iconAdd" title="{$lblAddSelectielijst|ucfirst}">
-            <span>Onderdeel toevoegen</span>
+        <a href="{$var|geturl:'add'}" class="button icon iconAdd" title="{$lblAddOpeningsuren|ucfirst}">
+            <span>{$lblAddOpeningsuren|ucfirst}</span>
         </a>
     </div>
 </div>

@@ -11,7 +11,7 @@ use Frontend\Modules\Selectielijst\Engine\Model as FrontendSelectielijstModel;
  *
  * @author Stijn Schets <stijn@schetss.be>
  */
-class Categories extends Widget
+class Company extends Widget
 {
     /**
      * Execute the extra
@@ -29,7 +29,7 @@ class Categories extends Widget
     private function parse()
     {
         // get categories
-        $categories = FrontendSelectielijstModel::getAllCategories();
+        $categories = FrontendSelectielijstModel::getAllCompanies();
 
         // any categories?
         if (!empty($categories)) {
@@ -43,6 +43,6 @@ class Categories extends Widget
         }
 
         // assign comments
-        $this->tpl->assign('widgetSelectielijstCategories', $categories);
+        $this->tpl->assign('widgetSelectielijstCompany', $categories);
     }
 }

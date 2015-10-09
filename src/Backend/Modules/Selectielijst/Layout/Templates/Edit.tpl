@@ -2,18 +2,18 @@
 {include:{$BACKEND_CORE_PATH}/Layout/Templates/StructureStartModule.tpl}
 
 <div class="pageTitle">
-    <h2>{$lblSelectielijst|ucfirst}: {$lblEdit}</h2>
+    <h2>Onderdeel {$lblEdit}</h2>
 </div>
 
 {form:edit}
-    <label for="titel">{$lblTitel|ucfirst}</label>
+    <label for="titel">Titel</label>
     {$txtTitel} {$txtTitelError}
 
     <div id="pageUrl">
-        <div class="oneLiner">
+      <!--   <div class="oneLiner">
             {option:detailURL}<p><span><a href="{$detailURL}/{$item.url}">{$detailURL}/<span id="generatedUrl">{$item.url}</span></a></span></p>{/option:detailURL}
             {option:!detailURL}<p class="infoMessage">{$errNoModuleLinked}</p>{/option:!detailURL}
-        </div>
+        </div> -->
     </div>
 
 
@@ -31,7 +31,7 @@
                         <div class="box">
                             <div class="heading">
                                 <h3>
-                                    <label for="omschrijving">{$lblOmschrijving|ucfirst}</label>
+                                    <label for="omschrijving">Omschrijving</label>
                                 </h3>
                             </div>
                             <div class="optionsRTE">

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale>
 	<Backend>
+		
+
 		<Selectielijst>
 			<item type="label" name="AddSelectielijst">
 				<translation language="nl"><![CDATA[Selectielijst toevoegen]]></translation>

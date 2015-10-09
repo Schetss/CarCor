@@ -1,12 +1,12 @@
 <?php
 
-namespace Frontend\Modules\Selectielijst\Engine;
+namespace Frontend\Modules\Openingsuren\Engine;
 
 use Frontend\Core\Engine\Model as FrontendModel;
 use Frontend\Core\Engine\Navigation;
 
 /**
- * In this file we store all generic functions that we will be using in the Selectielijst module
+ * In this file we store all generic functions that we will be using in the Openingsuren module
  *
  * @author Stijn Schets <stijn@schetss.be>
  */
@@ -25,7 +25,7 @@ class Model
              m.keywords AS meta_keywords, m.keywords_overwrite AS meta_keywords_overwrite,
              m.description AS meta_description, m.description_overwrite AS meta_description_overwrite,
              m.title AS meta_title, m.title_overwrite AS meta_title_overwrite, m.url
-             FROM selectielijst AS i
+             FROM openingsuren AS i
              INNER JOIN meta AS m ON i.meta_id = m.id
              WHERE m.url = ?',
             array((string) $URL)
@@ -37,7 +37,7 @@ class Model
         }
 
         // create full url
-        $item['full_url'] = Navigation::getURLForBlock('Selectielijst', 'Detail') . '/' . $item['url'];
+        $item['full_url'] = Navigation::getURLForBlock('Openingsuren', 'Detail') . '/' . $item['url'];
 
         return $item;
     }
@@ -53,7 +53,7 @@ class Model
     {
         $items = (array) FrontendModel::get('database')->getRecords(
             'SELECT i.*, m.url
-             FROM selectielijst AS i
+             FROM openingsuren AS i
              INNER JOIN meta AS m ON i.meta_id = m.id
              WHERE i.language = ?
              ORDER BY i.sequence ASC, i.id DESC LIMIT ?, ?',
@@ -66,7 +66,7 @@ class Model
         }
 
         // get detail action url
-        $detailUrl = Navigation::getURLForBlock('Selectielijst', 'Detail');
+        $detailUrl = Navigation::getURLForBlock('Openingsuren', 'Detail');
 
         // prepare items for search
         foreach ($items as &$item) {
@@ -86,7 +86,7 @@ class Model
     {
         return (int) FrontendModel::get('database')->getVar(
             'SELECT COUNT(i.id) AS count
-             FROM selectielijst AS i
+             FROM openingsuren AS i
              WHERE i.language = ?',
             array(FRONTEND_LANGUAGE)
         );
@@ -104,7 +104,7 @@ class Model
     {
         $items = (array) FrontendModel::get('database')->getRecords(
             'SELECT i.*, m.url
-             FROM selectielijst AS i
+             FROM openingsuren AS i
              INNER JOIN meta AS m ON i.meta_id = m.id
              WHERE i.category_id = ? AND i.language = ?
              ORDER BY i.sequence ASC, i.id DESC LIMIT ?, ?',
@@ -116,7 +116,7 @@ class Model
         }
 
         // get detail action url
-        $detailUrl = Navigation::getURLForBlock('Selectielijst', 'Detail');
+        $detailUrl = Navigation::getURLForBlock('Openingsuren', 'Detail');
 
         // prepare items for search
         foreach ($items as &$item) {
@@ -134,10 +134,12 @@ class Model
     public static function getAllCategories()
     {
         $return = (array) FrontendModel::get('database')->getRecords(
-            'SELECT id, titel AS title, omschrijving AS description
-             FROM selectielijst
-             WHERE category_id = 1
-             ORDER BY sequence ASC',
+            'SELECT c.id, c.title AS label, m.url, COUNT(c.id) AS total, m.data AS meta_data
+             FROM openingsuren_categories AS c
+             INNER JOIN openingsuren AS i ON c.id = i.category_id AND c.language = i.language
+             INNER JOIN meta AS m ON c.meta_id = m.id
+             GROUP BY c.id
+             ORDER BY c.sequence ASC',
             array(),
             'id'
         );
@@ -153,33 +155,107 @@ class Model
     }
 
 
-
-    /**
-     * Get all companies used
+     /**
+     * Get all open
      *
      * @return array
      */
-    public static function getAllCompanies()
+    public static function getAllOpen()
     {
         $return = (array) FrontendModel::get('database')->getRecords(
-            'SELECT id, titel AS title, omschrijving AS description
-             FROM selectielijst
-             WHERE category_id = 2
-             ORDER BY sequence ASC',
-            array(),
-            'id'
-        );
-
-        // loop items and unserialize
-        foreach ($return as &$row) {
-            if (isset($row['meta_data'])) {
-                $row['meta_data'] = unserialize($row['meta_data']);
-            }
-        }
+            "SELECT naam as name FROM openingsuren WHERE 
+            (wij_zijn_op_vakantie = 'N') 
+            AND (sluitingsdagen LIKE CONCAT('%',DAY(CURRENT_DATE), '/', MONTH(CURRENT_DATE),'%') = 0)
+            AND
+            (
+            (
+                CURTIME()BETWEEN maandagvoormiddag_open AND maandagvoormiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'MONDAY'
+                AND maandag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN maandagnamiddag_open AND maandagnamiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'MONDAY'
+                AND maandag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN dinsdagvoormiddag_open AND dinsdagvoormiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'TUESDAY'
+                AND dinsdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN dinsdagnamiddag_open AND dinsdagnamiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'TUESDAY'
+                AND dinsdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN woensdagvoormiddag_open AND woensdagvoormiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'WEDNESDAY'
+                AND woensdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN woensdagnamiddag_open AND woensdagnamiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'WEDNESDAY'
+                AND woensdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN donderdagvoormiddag_open AND donderdagvoormiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'THURSDAY'
+                AND donderdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME() BETWEEN donderdagnamiddag_open AND donderdagnamiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'THURSDAY'
+                AND donderdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN vrijdagvoormiddag_open AND vrijdagvoormiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'FRIDAY'
+                AND vrijdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN vrijdagnamiddag_open AND vrijdagnamiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'FRIDAY'
+                AND vrijdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN zaterdagvoormiddag_open AND zaterdagvoormiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'SATERDAY'
+                AND zaterdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN zaterdagnamiddag_open AND zaterdagnamiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'SATERDAY'
+                AND zaterdag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN zondagvoormiddag_open AND zondagvoormiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'SUNDAY'
+                AND zondag_open = 'Y'
+            )
+            OR 
+            (
+                CURTIME()BETWEEN zondagnamiddag_open AND zondagnamiddag_sluit
+                AND DAYNAME(CURRENT_DATE) = 'SUNDAY'
+                AND zondag_open = 'Y'
+            )
+            )
+            ");
 
         return $return;
     }
-
 
     /**
      * Fetches a certain category
@@ -194,7 +270,7 @@ class Model
              m.keywords AS meta_keywords, m.keywords_overwrite AS meta_keywords_overwrite,
              m.description AS meta_description, m.description_overwrite AS meta_description_overwrite,
              m.title AS meta_title, m.title_overwrite AS meta_title_overwrite, m.url
-             FROM selectielijst_categories AS i
+             FROM openingsuren_categories AS i
              INNER JOIN meta AS m ON i.meta_id = m.id
              WHERE m.url = ?',
             array((string) $URL)
@@ -206,7 +282,7 @@ class Model
         }
 
         // create full url
-        $item['full_url'] = Navigation::getURLForBlock('Selectielijst', 'category') . '/' . $item['url'];
+        $item['full_url'] = Navigation::getURLForBlock('Openingsuren', 'category') . '/' . $item['url'];
 
         return $item;
     }
@@ -223,7 +299,7 @@ class Model
     {
         return (int) FrontendModel::get('database')->getVar(
             'SELECT COUNT(i.id)
-             FROM selectielijst AS i
+             FROM openingsuren AS i
              WHERE i.language = ? AND i.category_id = ?',
             array(FRONTEND_LANGUAGE, (int) $categoryId)
         );
