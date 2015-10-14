@@ -541,6 +541,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/2dfc95accf51531460e40a2cbe30682e_Index.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/2dfc95accf51531460e40a2cbe30682e_Index.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/30e6abeb635738b8f2aa7152e2d5912a_Index.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -609,6 +618,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/42f2afb81dd9bef1bfa0a2500da317f4_Categories.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/4415202c6eef1babfe16f07c17376964_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/4415202c6eef1babfe16f07c17376964_Edit.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -14182,6 +14200,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/44affebebdeb12b6a06f76bc12cb7aa0_Detail.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/44affebebdeb12b6a06f76bc12cb7aa0_Detail.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/4f15fbc1443efed4c24cdbd637116b4f_Home.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14272,6 +14299,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/77947c2951efefd4b8c488d3ac134123_Categories.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/77947c2951efefd4b8c488d3ac134123_Categories.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/800f8cbe6c4150c0f209aac49170faa0_Form.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/800f8cbe6c4150c0f209aac49170faa0_Form.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/8368ecb7d5bca835874d3f5df80fdc43_Pagination.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14353,6 +14398,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/b1293ee49c00893fa8b9de2bd16f1f02_Categories.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/b1293ee49c00893fa8b9de2bd16f1f02_Categories.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/b16b54055bd6b2082ca430c0e09bde31_Header.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14421,6 +14475,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/d5651f094e449d7707b39e50a594db1e_Footer.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/dec1f58a5cb6b5fb22050cba018e9b11_Categories.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/dec1f58a5cb6b5fb22050cba018e9b11_Categories.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -15204,6 +15267,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/lorem-ipsum-nl-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39677,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/lorem-ipsum-nl-2.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/lorem-ipsum-nl-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/lorem-ipsum-nl-4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38554,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/lorem-ipsum-nl-4.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/lorem-ipsum-nl-4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/nunc-sediam-est-nl-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39677,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/nunc-sediam-est-nl-1.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/nunc-sediam-est-nl-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/128x128\/nunc-sediam-est-nl-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39677,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/nunc-sediam-est-nl-3.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/128x128\/nunc-sediam-est-nl-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/400x300\/lorem-ipsum-nl-4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255120,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/400x300\/lorem-ipsum-nl-4.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/400x300\/lorem-ipsum-nl-4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/400x300\/nunc-sediam-est-nl-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 258139,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/400x300\/nunc-sediam-est-nl-3.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/400x300\/nunc-sediam-est-nl-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/lorem-ipsum-nl-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.63116e+06,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/lorem-ipsum-nl-2.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/lorem-ipsum-nl-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/lorem-ipsum-nl-4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.62363e+06,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/lorem-ipsum-nl-4.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/lorem-ipsum-nl-4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/nunc-sediam-est-nl-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.63116e+06,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/nunc-sediam-est-nl-1.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/nunc-sediam-est-nl-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/blog\/images\/source\/nunc-sediam-est-nl-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.63116e+06,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/nunc-sediam-est-nl-3.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/blog\/images\/source\/nunc-sediam-est-nl-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Kwaliteitslabels\/achtergrondafbeelding\/300x400\/avicarplus.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15941,6 +16114,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/administratie.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131958,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/administratie.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/administratie.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/digitale-beeldvorming.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15948,6 +16132,39 @@
 		"initialSize": 131958,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/digitale-beeldvorming.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/digitale-beeldvorming.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/foto-en-afstandsanalyse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128732,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/foto-en-afstandsanalyse.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/foto-en-afstandsanalyse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/gepersonaliseerde-service.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135027,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/gepersonaliseerde-service.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/300x200\/gepersonaliseerde-service.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/administratie.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255120,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/administratie.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/administratie.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15963,6 +16180,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/foto-en-afstandsanalyse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 241897,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/foto-en-afstandsanalyse.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/foto-en-afstandsanalyse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/gepersonaliseerde-service.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 258139,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/gepersonaliseerde-service.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/400x300\/gepersonaliseerde-service.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/administratie.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.62363e+06,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/administratie.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/administratie.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/digitale-beeldvorming.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15970,6 +16220,28 @@
 		"initialSize": 5.62363e+06,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/digitale-beeldvorming.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/digitale-beeldvorming.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/foto-en-afstandsanalyse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.07332e+06,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/foto-en-afstandsanalyse.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/foto-en-afstandsanalyse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/gepersonaliseerde-service.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.63116e+06,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/gepersonaliseerde-service.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Werkwijze\/afbeelding\/source\/gepersonaliseerde-service.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16399,12 +16671,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/Kwaliteitslabels.js": {
+	"\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/kwaliteitslabels.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/Kwaliteitslabels.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/min\/Kwaliteitslabels-min.js",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/kwaliteitslabels.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/min\/kwaliteitslabels-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -16731,12 +17003,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/Openingsuren.js": {
+	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/Openingsuren.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/Openingsuren-min.js",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/openingsuren-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -17821,22 +18093,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_about.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_about.scss",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/css\/_about.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_articles.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -17965,6 +18221,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_selectionlist.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_selectionlist.scss",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/css\/_selectionlist.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_styleguide.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -18006,7 +18278,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3647,
+		"initialSize": 2384,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/thumbnail.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/cornelis-04.png",
 		"outputPathIsOutsideProject": 0,
