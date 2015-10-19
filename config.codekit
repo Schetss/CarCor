@@ -937,6 +937,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/9b5b7d40b69379aad27e55216d96a307_Add.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/9b5b7d40b69379aad27e55216d96a307_Add.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/9c0fb1af9dcc7700a07577ca9870a97f_Index.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -16671,12 +16680,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/kwaliteitslabels.js": {
+	"\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/Kwaliteitslabels.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/kwaliteitslabels.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/min\/kwaliteitslabels-min.js",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/Kwaliteitslabels.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/min\/Kwaliteitslabels-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -17003,12 +17012,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js": {
+	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/Openingsuren.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/openingsuren-min.js",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/Openingsuren.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/Openingsuren-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -18278,7 +18287,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2384,
+		"initialSize": 3647,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/thumbnail.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/cornelis-04.png",
 		"outputPathIsOutsideProject": 0,
