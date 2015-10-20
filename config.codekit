@@ -415,6 +415,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/1090106a083509163af8f674049f6d31_Settings.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/1090106a083509163af8f674049f6d31_Settings.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/1284be425bcc01bdf50c58e75a053752_Comments.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1059,6 +1068,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/bbebb35e95ee00b955bdbd4303626ca6_EditThemeTemplate.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/bc8a4f9ffa28dc25c278dac9c2900060_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/bc8a4f9ffa28dc25c278dac9c2900060_Edit.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -19305,7 +19323,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2384,
+		"initialSize": 3647,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/thumbnail.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/cornelis-04.png",
 		"outputPathIsOutsideProject": 0,
