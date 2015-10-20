@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19076",
 "files": {
 	"\/app\/AppKernel.php": {
 		"fileType": 8192,
@@ -676,6 +676,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/51c3658a85e08f5fff28a64fa6d7521c_Field.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/51c3658a85e08f5fff28a64fa6d7521c_Field.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Backend\/Cache\/CompiledTemplates\/53e37680fb69f0848a49b091c3dc4c4f_Index.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -771,6 +780,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/7083c6f35550c3a449bf6e607f928e6b_AddCategory.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Backend\/Cache\/CompiledTemplates\/716d12c77dd44128f6b8ebd7a2f62f31_Edit.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Backend\/Cache\/CompiledTemplates\/716d12c77dd44128f6b8ebd7a2f62f31_Edit.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -14137,6 +14155,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/1f6e1b8a96d4be0a2a0e86adbaadde2a_Footer.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/1f6e1b8a96d4be0a2a0e86adbaadde2a_Footer.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/212c91e65efcea93a4213d890e353d0f_Cookies.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14344,6 +14371,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/88f2ebbf3f93dccaca695a027cddc6cb_Header.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/88f2ebbf3f93dccaca695a027cddc6cb_Header.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/Frontend\/Cache\/CompiledTemplates\/8a05e8ca38277a1b93496412b4c75470_Default.tpl.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14475,6 +14511,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/c9cf4a1360be85cc127610886c3e4bb4_Quality.tpl.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Frontend\/Cache\/CompiledTemplates\/d233cd68423ab1cdf8866e2da5e9c15b_Form.tpl.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Cache\/CompiledTemplates\/d233cd68423ab1cdf8866e2da5e9c15b_Form.tpl.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -15639,6 +15684,127 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/actel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7666,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/actel.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/actel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/actel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5465,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/actel.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/actel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ag.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8437,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ag.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ag.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ag.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5835,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ag.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ag.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/allianz.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6648,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/allianz.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/allianz.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/allianz.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3385,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/allianz.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/allianz.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amlin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7065,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amlin.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amlin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amlin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4196,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amlin.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amlin.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amma.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8953,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amma.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/amma.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/argenta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7522,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/argenta.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/argenta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/argenta.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4967,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/argenta.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/argenta.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/avicarplus.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15661,6 +15827,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/axa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7191,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/axa.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/axa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/baloise.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6934,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/baloise.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/baloise.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/baloise.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4195,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/baloise.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/baloise.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/belfius.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6398,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/belfius.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/belfius.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/belfius.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4993,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/belfius.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/belfius.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/corona.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7380,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/corona.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/corona.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/corona.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6752,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/corona.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/corona.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/cromax.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15668,6 +15911,28 @@
 		"initialSize": 8703,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/cromax.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/cromax.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/dvv.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6233,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/dvv.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/dvv.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/dvv.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6098,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/dvv.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/dvv.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15683,6 +15948,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/federale.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6316,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/federale.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/federale.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/federale.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4350,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/federale.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/federale.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/five-star.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15690,6 +15977,50 @@
 		"initialSize": 11427,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/five-star.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/five-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/generali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11985,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/generali.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/generali.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/generali.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12962,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/generali.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/generali.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6416,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ing.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4302,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ing.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/ing.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15716,6 +16047,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/p-v.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7533,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/p-v.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/p-v.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/schadenet.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15723,6 +16065,149 @@
 		"initialSize": 13131,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/schadenet.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/schadenet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/vivium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7452,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/vivium.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/vivium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/100x100\/vivium.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4344,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/vivium.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/100x100\/vivium.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/actel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20976,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/actel.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/actel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/actel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16190,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/actel.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/actel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ag.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23145,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ag.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ag.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ag.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14707,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ag.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ag.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/allianz.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17576,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/allianz.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/allianz.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/allianz.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8222,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/allianz.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/allianz.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amlin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19860,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amlin.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amlin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amlin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10664,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amlin.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amlin.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amma.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25738,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amma.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/amma.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/argenta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22724,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/argenta.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/argenta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/argenta.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14177,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/argenta.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/argenta.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15749,6 +16234,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/axa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22754,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/axa.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/axa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/baloise.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19794,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/baloise.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/baloise.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/baloise.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10581,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/baloise.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/baloise.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/belfius.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17346,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/belfius.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/belfius.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/belfius.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13361,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/belfius.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/belfius.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/corona.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20281,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/corona.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/corona.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/corona.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21208,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/corona.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/corona.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/cromax.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15756,6 +16318,28 @@
 		"initialSize": 27552,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/cromax.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/cromax.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/dvv.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17320,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/dvv.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/dvv.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/dvv.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17881,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/dvv.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/dvv.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15771,6 +16355,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/federale.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17115,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/federale.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/federale.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/federale.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11728,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/federale.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/federale.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/five-star.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15778,6 +16384,50 @@
 		"initialSize": 30938,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/five-star.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/five-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/generali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33993,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/generali.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/generali.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/generali.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36432,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/generali.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/generali.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18099,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ing.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12702,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ing.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/ing.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15804,6 +16454,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/p-v.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21819,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/p-v.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/p-v.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/schadenet.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15811,6 +16472,149 @@
 		"initialSize": 42579,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/schadenet.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/schadenet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/vivium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19995,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/vivium.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/vivium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/200x200\/vivium.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12908,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/vivium.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/200x200\/vivium.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/actel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8157,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/actel.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/actel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/actel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34057,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/actel.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/actel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/ag.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9065,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/ag.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/ag.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/ag.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21851,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/ag.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/ag.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/allianz.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6382,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/allianz.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/allianz.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/allianz.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12409,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/allianz.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/allianz.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/amlin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6344,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/amlin.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/amlin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/amlin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15763,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/amlin.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/amlin.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/amma.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5968,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/amma.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/amma.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/argenta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8740,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/argenta.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/argenta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/argenta.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28883,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/argenta.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/argenta.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15837,6 +16641,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/axa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41773,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/axa.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/axa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/baloise.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6134,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/baloise.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/baloise.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/baloise.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16082,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/baloise.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/baloise.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/belfius.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5953,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/belfius.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/belfius.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/belfius.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22579,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/belfius.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/belfius.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/corona.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7274,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/corona.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/corona.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/corona.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46772,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/corona.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/corona.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/source\/cromax.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15844,6 +16725,28 @@
 		"initialSize": 26266,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/cromax.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/cromax.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/dvv.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6186,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/dvv.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/dvv.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/dvv.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35143,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/dvv.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/dvv.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15859,6 +16762,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/federale.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5907,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/federale.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/federale.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/federale.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19547,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/federale.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/federale.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/source\/five-star.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15866,6 +16791,50 @@
 		"initialSize": 141027,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/five-star.jpg",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/five-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/generali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14643,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/generali.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/generali.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/generali.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93137,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/generali.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/generali.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/ing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6130,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/ing.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/ing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/ing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30083,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/ing.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/ing.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15892,6 +16861,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/p-v.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43256,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/p-v.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/p-v.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/Frontend\/Files\/Logos\/logo\/source\/schadenet.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15899,6 +16879,28 @@
 		"initialSize": 626159,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/schadenet.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/schadenet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/vivium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7867,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/vivium.jpg",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/vivium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/Frontend\/Files\/Logos\/logo\/source\/vivium.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29854,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/vivium.png",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Files\/Logos\/logo\/source\/vivium.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16680,12 +17682,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/Kwaliteitslabels.js": {
+	"\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/kwaliteitslabels.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/Kwaliteitslabels.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/min\/Kwaliteitslabels-min.js",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/kwaliteitslabels.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/min\/kwaliteitslabels-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -17012,12 +18014,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/Openingsuren.js": {
+	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/Openingsuren.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/Openingsuren-min.js",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/openingsuren-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -18246,6 +19248,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_service.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_service.scss",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/css\/_service.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/src\/Frontend\/Themes\/Cornelis\/Core\/Layout\/Scss\/theme\/modules\/_styleguide.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -18287,7 +19305,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3647,
+		"initialSize": 2384,
 		"inputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/thumbnail.png",
 		"outputAbbreviatedPath": "\/src\/Frontend\/Themes\/Cornelis\/cornelis-04.png",
 		"outputPathIsOutsideProject": 0,
@@ -72923,7 +73941,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/symfony\/symfony\/src\/Symfony\/Component\/Translation\/Tests\/fixtures\/resources.ts",
+		"jsxMode": 0,
 		"minifyOutput": 0,
+		"moduleResolutionType": 0,
 		"moduleType": 0,
 		"noImplicitAny": 0,
 		"outputAbbreviatedPath": "\/vendor\/symfony\/symfony\/src\/Symfony\/Component\/Translation\/Tests\/fixtures\/js\/resources.js",
@@ -78886,7 +79906,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
