@@ -17700,12 +17700,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/kwaliteitslabels.js": {
+	"\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/Kwaliteitslabels.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/kwaliteitslabels.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/min\/kwaliteitslabels-min.js",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/Kwaliteitslabels.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Kwaliteitslabels\/Js\/min\/Kwaliteitslabels-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -18032,12 +18032,23 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js": {
+	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/openingsuren-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/openingsuren-min.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/min\/openingsuren-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/Frontend\/Modules\/Openingsuren\/Js\/Openingsuren.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/openingsuren.js",
-		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/openingsuren-min.js",
+		"inputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/Openingsuren.js",
+		"outputAbbreviatedPath": "\/src\/Frontend\/Modules\/Openingsuren\/Js\/min\/Openingsuren-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

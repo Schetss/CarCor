@@ -23,13 +23,14 @@ class Open extends Widget
         $this->parse();
     }
 
+
     /**
      * Parse
      */
     private function parse()
     {
         // get open
-        $open = FrontendOpeningsurenModel::getAllOpen();
+            $open = FrontendOpeningsurenModel::getAllOpen();
 
         // any open?
         if (!empty($open)) {
